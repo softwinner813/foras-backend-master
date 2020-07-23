@@ -1,0 +1,82 @@
+========= Website UI Design =========
+
+https://www.dropbox.com/s/pv5zzxtmgpsxp0e/Foras-Web-Rev03.sketch?dl=0
+
+=====================================
+*************************************
+===== Working Location: France ======
+
+https://premium87.web-hosting.com:2096/logout/?locale=en 
+
+email/pass: admin@foras.app / PayA4afAC^b4c$1 
+*** GCP integrated to this email. ***
+
+===== Web Hosting Server Info =======
+
+https://premium87.web-hosting.com/cpanel 
+or http://foras.app/cpanel 
+
+cPanel username: foraqydg 
+cPanel password: SGWlYozFf1Di 
+
+project directory: foras
+
+======================================
+
+**************************************
+=== webmail server config === .env === 
+
+--- SSL Mail Server 
+
+MAIL_DRIVER=smtp 
+MAIL_HOST=foras.app 
+MAIL_PORT=465 
+MAIL_USERNAME=admin@foras.app 
+MAIL_PASSWORD="PayA4afAC^b4c$" 
+MAIL_ENCRYPTION=ssl 
+MAIL_FROM_NAME=Foras 
+
+======================================
+**************************************
+========== google maps api ===========
+
+AIzaSyCtixXJ0cvq3DHdmWs2dl8W4KAn27Uf_JU 
+
+======================================
+**************************************
+======== Facebook App ID === Web =====
+
+App ID: 845306942567389 
+App Secret: e932a55ae8c8bb35e163a433c7d2715b 
+
+======================================
+**************************************
+===== Linkedin App ID === Mobile =====
+
+App ID: 86ko034ammuzb2 
+Secret: 5Tgh4ykyrLwkCFk1 
+
+======================================
+**************************************
+===== Linkedin login Info == Web =====
+
+Client ID: 86ko034ammuzb2 
+Client Secret: 5Tgh4ykyrLwkCFk1 
+Domains: https://foras.app | http://localhost:3000 
+Redirect URLs: https://foras.app | https://foras.app/linkedin | http://localhost:3000/linkedin 
+
+======================================= 
+**************************************
+=== google-signin-client_id === Web === 
+
+447807123147-oqepplfnf2b0dv6glg9fljolhrjutdcj.apps.googleusercontent.com 
+
+From <https://console.developers.google.com/apis/credentials?project=foras-260407&authuser=3>  
+
+== google-signin-client-secret = Web == 
+
+jSPFQyhGYQWEtrj5rQCe3PAB 
+
+From <https://console.developers.google.com/apis/credentials/oauthclient/447807123147-oqepplfnf2b0dv6glg9fljolhrjutdcj.apps.googleusercontent.com?project=foras-260407&authuser=3>  
+
+=======================================
